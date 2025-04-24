@@ -13,20 +13,20 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+### ⚙️ Tools I Use
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhminhhoang&show_icons=true&theme=radical&hide_title=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhhoang&layout=compact&langs_count=6&theme=radical&hide=html,css,scss" height="170" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
 ---
-
-### 🔥 Streaks & Activity
+### 🌍 Connect with me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=trinhminhhoang&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=trinhminhhoang&theme=react-dark" />
+  <a href="https://www.linkedin.com/in/minh-hoang-trinh-9a984b303" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hoangtm.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MeanHoang" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://personal-blog-beige-eta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
