@@ -1,5 +1,3 @@
-# Welcome to My Profile 👋
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Trịnh+Minh+Hoàng+%F0%9F%91%8B;Fullstack+Web+Developer+%7C+React+%26+Node.js+Enthusiast;Crafting+Clean+Code+%26+Meaningful+Experiences;We+can+go+band+for+band%2C+that%2C+we+can+go+M+for+M+%F0%9F%92%8E)
 ---
 <div align="center">
