@@ -3,6 +3,7 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFmY3JmeTB1NTF2eGF3d2ozY2pocDRibmdwbGF1azBpYnZzNzBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFngIYWIg2QJgQQTMf/giphy.gif" width="100%" />
 </div>
+
 ---
 
 ### 🧠 Tech Stack
