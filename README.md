@@ -2,10 +2,8 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%20%20Hi%2C+I'm+Hoang+%F0%9F%91%8B;%20%20%20Fullstack+Web+Developer+%7C+React+%26+Node.js+Enthusiast;%20%20%20Crafting+Clean+Code+%26+Meaningful+Experiences)
 </div>
-
----
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFmY3JmeTB1NTF2eGF3d2ozY2pocDRibmdwbGF1azBpYnZzNzBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFngIYWIg2QJgQQTMf/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU0bjZvaDM0Z3R0bmtkaWR0bWowdjhqZDh2ejUxbjNoNjliZXhsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="100%" />
 </div>
 
 ---
